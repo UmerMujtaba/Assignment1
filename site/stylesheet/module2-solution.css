@@ -1,11 +1,10 @@
 *{
-	font-family: Helvetica;
+	font-family: Helvetica arial serif;
 	box-sizing: border-box;
 }
 h1{
 	
 	padding: 2%;
-	font-family: Times new roman ,Times,serif;
 	text-align: center;
 }
 #sec{
