@@ -2,7 +2,7 @@
 	font-family: Bradley Hand, cursive;
 	box-sizing: border-box;
 }
-h1{
+h1{ 
 	
 	margin-bottom: 130px;
 	text-align: center;
@@ -63,7 +63,7 @@ h1{
   	float: left;
     width: 33.33%;
   }
-  
+
 }
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
