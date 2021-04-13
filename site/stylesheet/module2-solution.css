@@ -63,6 +63,7 @@ h1{
   	float: left;
     width: 33.33%;
   }
+  
 }
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
